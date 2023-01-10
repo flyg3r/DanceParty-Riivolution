@@ -1,0 +1,1 @@
+Place here your "main.dol" file that has been patched with the official Dance Party patcher.
