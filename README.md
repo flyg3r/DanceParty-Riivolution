@@ -14,9 +14,14 @@
 
 ``` (Dolphin): ```
 
-1. Possible use but transcription not possible. (if anyone is on Dolphin and could explain in detail the information, it would be appreciated!)
+1. Once you have patched your game, download the files.
+2.  Right click on your game of choice.
+3.  Click on "Start with Riivolution Patches".
+4.  Click "Open Riivolution XML" and then open your XML file.
+5.  Click "Start".
+6.  Yay! You should be online on the DanceParty server!
 
-### This repository works on Wii, vWii (Wii U) and Dolphin **(although Dolphin has a different configuration for Riivolution, so I don't know how it works)**. 
+### This repository works on Wii, vWii (Wii U) and Dolphin. 
 
 *Thanks to Lami#9699 for helping me create the XML files for Riivolution.*
 
