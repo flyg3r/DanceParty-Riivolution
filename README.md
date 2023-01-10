@@ -14,9 +14,14 @@
 
 ``` (Dolphin): ```
 
-1. Possible use but transcription not possible. (if anyone is on Dolphin and could explain in detail the information, it would be appreciated!)
+1. Follow the guide to patch your main.dol file.
+2. Find the game in Dolphin.
+3. Right click on it, then click "Start with Riivolution Patches"
+4. Click on "Add Riivolution XML", then open the correct xml file.
+5. Then, click start.
+6. Enjoy DanceParty!
 
-### This repository works on Wii, vWii (Wii U) and Dolphin **(although Dolphin has a different configuration for Riivolution, so I don't know how it works)**. 
+### This repository works on Wii, vWii (Wii U) and Dolphin. 
 
 *Thanks to Lami#9699 for helping me create the XML files for Riivolution.*
 
