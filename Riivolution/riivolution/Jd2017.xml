@@ -1,0 +1,16 @@
+<wiidisc version="1">
+	<id game="SZ7"/>
+	<options>
+		<section name="Dance Party 2017">
+			<option name="Dance Party 2017">
+				<choice name="Enabled">
+					<patch id="dc2017"/>
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="dc2017">
+		<folder external="/jd2017" recursive="false"/>
+		<folder external="/jd2017" disc="/"/>
+	</patch>
+</wiidisc>

@@ -1,0 +1,16 @@
+<wiidisc version="1">
+	<id game="SE8"/>
+	<options>
+		<section name="Dance Party 2018">
+			<option name="Dance Party 2018">
+				<choice name="Enabled">
+					<patch id="dc2018"/>
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="dc2018">
+		<folder external="/jd2018" recursive="false"/>
+		<folder external="/jd2018" disc="/"/>
+	</patch>
+</wiidisc>

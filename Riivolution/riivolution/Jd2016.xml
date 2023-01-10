@@ -1,0 +1,16 @@
+<wiidisc version="1">
+	<id game="SJN"/>
+	<options>
+		<section name="Dance Party 2016">
+			<option name="Dance Party 2016">
+				<choice name="Enabled">
+					<patch id="dc2016"/>
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="dc2016">
+		<folder external="/jd2016" recursive="false"/>
+		<folder external="/jd2016" disc="/"/>
+	</patch>
+</wiidisc>
